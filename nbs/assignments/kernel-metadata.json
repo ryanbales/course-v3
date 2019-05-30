@@ -1,0 +1,13 @@
+{
+  "id": "rbales/Cactus-Detection-FastAI",
+  "title": "Cactus Detection FastAI",
+  "code_file": "wk1-image_classification.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "true",
+  "enable_gpu": "true",
+  "enable_internet": "true",
+  "dataset_sources": [],
+  "competition_sources": ["aerial-cactus-identification"],
+  "kernel_sources": []
+}
